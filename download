@@ -1,0 +1,3 @@
+# a página é um único arquivo grande com fontes embutidas; diff textual não ajuda
+index.html -diff
+vendor/jspdf.umd.min.js -diff linguist-vendored
